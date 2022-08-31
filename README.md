@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/677ac53860014053873401dbe6fc78d8.png?r=4ka" width="400" alt="Hùng Trần's Dev Card"/></a>
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
