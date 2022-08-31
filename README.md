@@ -1,7 +1,8 @@
 
+<div style="display:flex">
+  <div>
 
-
-| ### Hi there 👋
+### Hi there 👋
 
 **hungphucht001/hungphucht001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... |<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/677ac53860014053873401dbe6fc78d8.png?r=4ka" width="400" alt="Hùng Trần's Dev Card"/></a>
-|
+- ⚡ Fun fact: ...   
+</div>
+  
+
+<div>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/677ac53860014053873401dbe6fc78d8.png?r=4ka" width="400" alt="Hùng Trần's Dev Card"/></a>
+</div>
+  </div>
